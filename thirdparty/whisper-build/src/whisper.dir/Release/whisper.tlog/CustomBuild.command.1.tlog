@@ -1,0 +1,10 @@
+^D:\WORK\WHISPERPOC\CPP_WHISPER_POC\THIRDPARTY\WHISPER.CPP\SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/work/WhisperPOC/cpp_whisper_poc -BD:/work/WhisperPOC/cpp_whisper_poc/build_vs --check-stamp-file D:/work/WhisperPOC/cpp_whisper_poc/build_vs/_deps/whisper-build/src/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

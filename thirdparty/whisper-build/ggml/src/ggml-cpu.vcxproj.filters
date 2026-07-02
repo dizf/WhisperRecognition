@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-cpu\ggml-cpu.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-cpu\ggml-cpu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-cpu\repack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-cpu\hbm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-cpu\quants.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-cpu\traits.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-cpu\amx\amx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-cpu\amx\mmq.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-cpu\binary-ops.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-cpu\unary-ops.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-cpu\vec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-cpu\ops.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-cpu\arch\x86\quants.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-cpu\arch\x86\repack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-cpu\repack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-cpu\hbm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-cpu\quants.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-cpu\traits.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-cpu\amx\amx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-cpu\amx\mmq.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-cpu\ggml-cpu-impl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-cpu\common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-cpu\binary-ops.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-cpu\unary-ops.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-cpu\simd-mappings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-cpu\vec.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-cpu\ops.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{4874B907-9C16-3826-911B-2530FF6C5A9F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E73CC987-54BA-3124-B68E-FD13AD95369E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

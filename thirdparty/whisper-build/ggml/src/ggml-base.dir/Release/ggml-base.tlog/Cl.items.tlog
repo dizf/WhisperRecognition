@@ -1,0 +1,9 @@
+D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml.c;D:\work\WhisperPOC\cpp_whisper_poc\build_vs\_deps\whisper-build\ggml\src\ggml-base.dir\Release\ggml.c.obj
+D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml.cpp;D:\work\WhisperPOC\cpp_whisper_poc\build_vs\_deps\whisper-build\ggml\src\ggml-base.dir\Release\ggml.cpp.obj
+D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-alloc.c;D:\work\WhisperPOC\cpp_whisper_poc\build_vs\_deps\whisper-build\ggml\src\ggml-base.dir\Release\ggml-alloc.obj
+D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-backend.cpp;D:\work\WhisperPOC\cpp_whisper_poc\build_vs\_deps\whisper-build\ggml\src\ggml-base.dir\Release\ggml-backend.obj
+D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-backend-meta.cpp;D:\work\WhisperPOC\cpp_whisper_poc\build_vs\_deps\whisper-build\ggml\src\ggml-base.dir\Release\ggml-backend-meta.obj
+D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-opt.cpp;D:\work\WhisperPOC\cpp_whisper_poc\build_vs\_deps\whisper-build\ggml\src\ggml-base.dir\Release\ggml-opt.obj
+D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-threading.cpp;D:\work\WhisperPOC\cpp_whisper_poc\build_vs\_deps\whisper-build\ggml\src\ggml-base.dir\Release\ggml-threading.obj
+D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\ggml-quants.c;D:\work\WhisperPOC\cpp_whisper_poc\build_vs\_deps\whisper-build\ggml\src\ggml-base.dir\Release\ggml-quants.obj
+D:\work\WhisperPOC\cpp_whisper_poc\thirdparty\whisper.cpp\ggml\src\gguf.cpp;D:\work\WhisperPOC\cpp_whisper_poc\build_vs\_deps\whisper-build\ggml\src\ggml-base.dir\Release\gguf.obj

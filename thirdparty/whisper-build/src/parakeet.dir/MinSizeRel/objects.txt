@@ -1,0 +1,1 @@
+D:/work/WhisperPOC/cpp_whisper_poc/build_vs/_deps/whisper-build/src/parakeet.dir/MinSizeRel/parakeet.obj

@@ -1,0 +1,15 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/FindGit.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/FindPackageMessage.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/GNUInstallDirs.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/WriteBasicConfigVersionFile.cmake
+D:/work/WhisperPOC/cpp_whisper_poc/thirdparty/whisper.cpp/CMakeLists.txt
+D:/work/WhisperPOC/cpp_whisper_poc/thirdparty/whisper.cpp/cmake/build-info.cmake
+D:/work/WhisperPOC/cpp_whisper_poc/thirdparty/whisper.cpp/cmake/parakeet-config.cmake.in
+D:/work/WhisperPOC/cpp_whisper_poc/thirdparty/whisper.cpp/cmake/parakeet.pc.in
+D:/work/WhisperPOC/cpp_whisper_poc/thirdparty/whisper.cpp/cmake/whisper-config.cmake.in
+D:/work/WhisperPOC/cpp_whisper_poc/thirdparty/whisper.cpp/cmake/whisper.pc.in
